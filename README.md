@@ -2,7 +2,7 @@
 
 ---
 
-I built a fully functional shopping cart using React, TypeScript, and Bootstrap.
+A fully functional shopping cart using React, TypeScript, and Bootstrap.
 The project is structured like a real world large scale project regarding file/folder structure, naming conventions, best practices.
 
 The app has:
